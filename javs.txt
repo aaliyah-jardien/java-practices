@@ -1,0 +1,38 @@
+By the end of this module, students:
+will know the basics of object-oriented programming such as encapsulation, inheritance, polymorphism and composition;
+
+
+would have refactored procedural code to object-oriented code;
+
+
+have been introduced to DevOps by using GitHub actions to build, test and package their programs;
+
+
+have programmed a client-server architecture system from scratch;
+
+
+will know the fundamentals of network programming by programming with sockets;
+
+
+have written a multi-user system using thread-based concurrency; and
+
+
+will learn how to implement a custom application protocol with JSON.
+
+
+Programming
+Java Fundamentals: How to use the basic programming constructs in Java to mould the design of a program.
+
+
+Encapsulation: Create classes to implement behaviour, hide and govern access to data.
+
+
+Inheritance: Use abstraction as an instrument of design.
+
+
+Polymorphism: Implement specialisation of objects at run-time, based on the abstraction designed.
+
+
+Composition: Combine objects to create more complex objects.
+
+
